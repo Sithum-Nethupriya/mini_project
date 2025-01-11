@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'MajorMono';
+    src: url('../media/fonts/MajorMonoDisplay-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AguDisplay';
+    src: url('../media/fonts/AguDisplay-Regular-VariableFont_MORF.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Neucha';
+    src: url('../media/fonts/Neucha-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'InriaSans';
+    src: url('../media/fonts/InriaSans-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('../media/fonts/BarlowCondensed-Regular.ttf') format('truetype');
+}
+
+
+
+h1{
+    font-size: 6.5vh;
+    font-family: 'MajorMono';
+}
+
+h2{
+    font-size: 6vh;
+    padding: 2vh;
+    font-family: 'AguDisplay';
+}   
+
+h3{
+    font-size: 4.5vh;
+    padding: 2vh;
+    font-family: 'Neucha';
+}
+
+h4{
+    font-size: 4vh;
+    font-family: 'InriaSans';
+}
+
+main p{
+    font-size: 3.5vh;
+    font-family: 'Barlow';
+}
+
+header a, footer a{
+    font-family: 'Neucha';
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 3vh;
+}
+

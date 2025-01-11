@@ -1,0 +1,12 @@
+.bannerCardInfo{
+    width: 100%;
+}
+
+
+.bannerCardInfo a{
+    color: black;
+}
+
+a:hover{
+    color: red;
+}

@@ -1,0 +1,11 @@
+#divider{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.bannerCard{
+    width: 95%;
+    min-height: 50vh;
+    background-color: aliceblue;
+    justify-content: space-evenly;
+}

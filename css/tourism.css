@@ -1,0 +1,33 @@
+#imgRow{
+    column-gap: 2vh;
+    padding: 2vh;
+}
+
+
+
+#imgRow .imgBox{
+    width: 40vw;
+    height: 70vh;
+    border: none;
+}
+
+.imgBox{
+    width: 85vw;
+    height: 100vh;
+    border: 1px solid black;
+}
+
+
+h3{
+    padding-bottom: 0;
+}
+
+
+#scrollMap{
+    overflow: scroll;
+}
+
+#scrollMap img{
+    height: 140%;
+    width: 110%;
+}

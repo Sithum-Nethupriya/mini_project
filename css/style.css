@@ -1,0 +1,24 @@
+.bannerCardInfo{
+    min-width: 60%;
+}
+
+.bannerCard a{
+    padding: 2vh;
+    color: black;
+}
+
+.bannerCardInfo a:hover{
+    background-color: antiquewhite;
+    color: red;
+    border-radius: 3vw;
+    
+}
+.bannerCard:hover{
+    transform: scale(1.02);
+    transition: 0.3s;
+    background-color: bisque;
+}
+
+.bannerCardInfo a{
+    font-family: 'InriaSans';
+}

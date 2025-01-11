@@ -1,0 +1,28 @@
+.imgBox{
+    width: 90vw;
+}
+
+.imgbox #mapCard{
+    padding: 0;
+}
+
+.bannerCard{
+    padding: 0;
+    background-color: aliceblue;
+    box-shadow: 0 0 10px;
+    width: 95%;
+}
+
+.imgBox{
+    margin: 2vh;
+    max-width: 40%;
+}
+
+.bannerCardInfo{
+    padding: 3vw;
+}
+#bookhotel{
+    left: 24vw;
+    margin: 2vh;
+    
+}

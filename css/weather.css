@@ -1,0 +1,19 @@
+.bannerCard{
+    width: 95%;
+    min-height: 50vh;
+    background-color: white;
+    justify-content: space-evenly;
+}
+
+
+#liveFeed{
+    font-family: 'Barlow';
+    font-size: 3.5vh;
+    line-height: 4.5vh;
+}
+
+.imgBox{
+    width: 30vw;
+    height: 50vh;
+}
+

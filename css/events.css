@@ -1,0 +1,26 @@
+.imgBox{
+    width: 90vw;
+}
+
+.imgbox #mapCard{
+    padding: 0;
+}
+
+.bannerCard{
+    padding: 0;
+    background-color: aliceblue;
+    box-shadow: 0 0 10px;
+    width: 95%;
+    height: 40vh;
+}
+
+.imgBox{
+    margin: 2vh;
+    max-width: 40vh;
+    height: 90%;
+
+}
+
+.bannerCardInfo{
+    padding: 3vw;
+}

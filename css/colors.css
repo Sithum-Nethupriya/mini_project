@@ -1,0 +1,12 @@
+:root{
+    --main-bg-color: white;
+    --main-fg-color: black;
+    --halfwhite: rgba(255, 255, 255, 0.5);
+    --halfblack: rgba(0, 0, 0, 0.5);
+
+    --header-bg : red;
+    --header-fg : white;
+
+    --footer-bg: red;
+    --foter-fg:white;
+}

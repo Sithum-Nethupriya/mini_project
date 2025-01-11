@@ -1,0 +1,47 @@
+
+.rflex{
+    display: flex;
+    flex-direction: row;
+}
+
+.cflex{
+    display: flex;
+    flex-direction: column;
+}
+
+.rflex, .cflex {
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+
+}
+
+.bannerCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2vh;
+    width: 85%;
+    border-radius: 1vw;
+    box-shadow: 1px 1px 5px;
+}
+
+
+
+.bannerCardImg{
+    overflow: hidden;
+    object-fit: fill;
+    width: 25vw;
+    height: 35vh;
+    border: 1px solid black;
+    border-radius: 1vw;
+}
+
+
+.imgBox{
+    overflow: hidden;
+    object-fit: fill;
+    height: 60vh;
+    width: 60vh;
+    border-radius: 1vw;
+}

@@ -1,0 +1,12 @@
+.bannerCard{
+    width: 95%;
+    min-height: 50vh;
+    background-color: aliceblue;
+    justify-content: space-evenly;
+}
+
+#tip{
+    color: blue;
+    border-radius: 5vw;
+    padding: 1vh;
+}
