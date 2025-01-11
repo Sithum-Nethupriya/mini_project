@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function() {
 const footerHTML = `
 <footer>
     <div class="rflex">
-        <a href="#">Website by : Sitham</a>
+        <a href="https://github.com/Sithum-Nethupriya/mini_project">Website by : Sithum</a>
         <a href="#">⮝</a>
         <a href="./about.html">About</a>
     </div>
